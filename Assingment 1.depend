@@ -1,0 +1,112 @@
+# depslib dependency file v1.0
+1639939657 source:c:\users\rory harrington\onedrive - cork college of commerce\c++\workspace\assingment 1\counter.cpp
+	"counter.h"
+	<iostream>
+	<string>
+	<stdlib.h>
+	<ctime>
+	"player.h"
+
+1639937681 c:\users\rory harrington\onedrive - cork college of commerce\c++\workspace\assingment 1\counter.h
+	<iostream>
+	<string>
+
+1639948465 source:c:\users\rthar\onedrive - cork college of commerce\c++\workspace\assingment 1\counter.cpp
+	"counter.h"
+	<iostream>
+	<string>
+	<stdlib.h>
+	<ctime>
+	"player.h"
+
+1639941587 c:\users\rthar\onedrive - cork college of commerce\c++\workspace\assingment 1\counter.h
+	<iostream>
+	<string>
+
+1639948465 c:\users\rthar\onedrive - cork college of commerce\c++\workspace\assingment 1\player.h
+	<stdlib.h>
+	<ctime>
+	<string>
+	<iostream>
+	"counter.h"
+
+1639937681 source:c:\users\rthar\onedrive - cork college of commerce\c++\workspace\assingment 1\player.cpp
+	"player.h"
+	"String"
+	"counter.h"
+	<iostream>
+	"player.h"
+	"counter.h"
+	<stdlib.h>
+	<ctime>
+
+1639938401 source:c:\users\rthar\onedrive - cork college of commerce\c++\workspace\assingment 1\main.cpp
+	<iostream>
+	<ctime>
+	<conio.h>
+	<fstream>
+	"counter.h"
+	"player.h"
+
+1639937681 source:c:\users\rory harrington\onedrive - cork college of commerce\c++\workspace\assingment 1\player.cpp
+	"player.h"
+	"String"
+	"counter.h"
+	<iostream>
+	"player.h"
+	"counter.h"
+	<stdlib.h>
+	<ctime>
+
+1639939522 c:\users\rory harrington\onedrive - cork college of commerce\c++\workspace\assingment 1\player.h
+	<stdlib.h>
+	<ctime>
+	<string>
+	<iostream>
+	"counter.h"
+
+1639664360 source:c:\users\rory.harrington\onedrive - cork college of commerce\c++\workspace\assingment 1\player.cpp
+	"player.h"
+	"String"
+	"counter.h"
+	<iostream>
+	"player.h"
+	"counter.h"
+	<stdlib.h>
+	<ctime>
+
+1639672135 c:\users\rory.harrington\onedrive - cork college of commerce\c++\workspace\assingment 1\player.h
+	<stdlib.h>
+	<ctime>
+	<string>
+	<iostream>
+	"counter.h"
+
+1639672135 c:\users\rory.harrington\onedrive - cork college of commerce\c++\workspace\assingment 1\counter.h
+	<iostream>
+	<string>
+
+1639673000 source:c:\users\rory.harrington\onedrive - cork college of commerce\c++\workspace\assingment 1\counter.cpp
+	"counter.h"
+	<iostream>
+	<string>
+	<stdlib.h>
+	<ctime>
+	"player.h"
+
+1639673000 source:c:\users\rory.harrington\onedrive - cork college of commerce\c++\workspace\assingment 1\main.cpp
+	<iostream>
+	<ctime>
+	<conio.h>
+	<fstream>
+	"counter.h"
+	"player.h"
+
+1639938401 source:c:\users\rory harrington\onedrive - cork college of commerce\c++\workspace\assingment 1\main.cpp
+	<iostream>
+	<ctime>
+	<conio.h>
+	<fstream>
+	"counter.h"
+	"player.h"
+
